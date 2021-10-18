@@ -1,0 +1,13 @@
+name: ParadiseUHCStats
+author: Qzop (Made for BackToAfrica)
+version: 1.0
+main: Paradise.main.Main
+description: This is the stats plugin for ParadiseUHC. 
+             
+commands:
+  sdbreload:
+    description: Reloads the cofig.
+  stats:
+    description: Shows a players in game stats. 
+  statswinner:
+    description: Add a win to a players stats.
